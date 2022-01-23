@@ -1,5 +1,7 @@
 # dimmer_resistor_heater
 
+Hack a day project: https://hackaday.io/project/183712-remotely-controlled-resistor-heater
+
 This repo contains the PCB design used to manage the resistor heaters remotely.
 
 The approach is adapting the device
