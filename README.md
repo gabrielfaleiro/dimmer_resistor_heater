@@ -12,3 +12,8 @@ Inherited parts:
 - Resistor 47K
 - Capacitor 2A823J 82nF
 - Diac ST DB3 C702
+  - Datasheet: https://www.st.com/en/thyristors-scr-and-ac-switches/db3.html#documentation
+
+Description of circuit behaviour: https://www.electronics-tutorials.ws/power/diac.html
+
+Understand datasheets: https://www.st.com/resource/en/application_note/an2703-parameter-list-for-scrs-triacs-ac-switches-and-diacs-stmicroelectronics.pdf  
