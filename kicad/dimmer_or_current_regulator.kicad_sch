@@ -429,7 +429,7 @@
   (symbol (lib_id "Device:R_Variable") (at 110.49 45.72 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1fbdff44-7ee7-44a1-af4d-b8965b2e170b)
-    (property "Reference" "RV" (id 0) (at 110.49 38.1 90))
+    (property "Reference" "VR1" (id 0) (at 110.49 38.1 90))
     (property "Value" "R_Variable" (id 1) (at 110.49 40.64 90))
     (property "Footprint" "" (id 2) (at 110.49 47.498 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -499,7 +499,7 @@
   (symbol (lib_id "Device:R") (at 125.73 45.72 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cce26f28-0607-44b7-b6e6-6ff618b1d62d)
-    (property "Reference" "RC" (id 0) (at 125.73 39.37 90))
+    (property "Reference" "R1" (id 0) (at 125.73 39.37 90))
     (property "Value" "R" (id 1) (at 125.73 41.91 90))
     (property "Footprint" "" (id 2) (at 125.73 47.498 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -545,13 +545,13 @@
       (reference "Q1") (unit 1) (value "MAC97A6") (footprint "MAC97A6")
     )
     (path "/cce26f28-0607-44b7-b6e6-6ff618b1d62d"
-      (reference "RC") (unit 1) (value "R") (footprint "")
+      (reference "R1") (unit 1) (value "R") (footprint "")
     )
     (path "/f47b4270-1cf8-499b-9a05-0ef4b62bb7ea"
       (reference "RL") (unit 1) (value "R") (footprint "")
     )
     (path "/1fbdff44-7ee7-44a1-af4d-b8965b2e170b"
-      (reference "RV") (unit 1) (value "R_Variable") (footprint "")
+      (reference "VR1") (unit 1) (value "R_Variable") (footprint "")
     )
   )
 )
